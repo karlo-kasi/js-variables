@@ -11,6 +11,11 @@ console.log(nome);
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
 
+let firstnumber = "34";
+let newtext = "ciao";
+let booleano = "true";
+
+console.log(firstnumber, newtext, booleano);
 
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
